@@ -9,3 +9,4 @@ dev add
 new dev add
 test on-ff
 bug test dev
+bug test dev2
