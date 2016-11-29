@@ -6,3 +6,4 @@ Creating a new Branch is quick
 Test moreagain
 Add was master and dev
 dev add
+new dev add
